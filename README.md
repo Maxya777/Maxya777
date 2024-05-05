@@ -1,4 +1,4 @@
-### Здравствуйте! Меня зовут Максим. Я начинающий Java разработчик.
+### Здравствуйте! Меня зовут Максим. Я Junior QA Engineer.
 
 ---
 
@@ -11,24 +11,12 @@
 
 #### Языки и инструменты программирования
 
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=FFFFFF) ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FF6347) ![VCcode](https://img.shields.io/badge/-Visual_Studio-000000?style=flat-square&logo=VisualStudio&logoColor=4169E1) ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=JavaSE) ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=Git&logoColor=F4A460) ![Maven](https://img.shields.io/badge/-Maven-000000?style=flat-square&logo=ApacheMaven&logoColor=FFB6C1) ![Gradle](https://img.shields.io/badge/-Gradle-000000?style=flat-square&logo=Gradle&logoColor=00FF00) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=PostgreSQL&logoColor=FFFFFF) ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=Spring&logoColor=00FF00) ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat-square&logo=SpringBoot&logoColor=00FF00) ![SpringSecurity](https://img.shields.io/badge/-Spring_Security-000000?style=flat-square&logo=SpringSecurity&logoColor=00FF00) ![Tomcat](https://img.shields.io/badge/-Apache_Tomcat-000000?style=flat-square&logo=ApacheTomcat&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=Docker) ![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat-square&logo=JUnit5&logoColor=FF4500) ![Mockito](https://img.shields.io/badge/-Mockito-000000?style=flat-square&logo=Mockito&logoColor=F4A460) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JsonWebTokens&logoColor=FF00FF) ![Hibernate](https://img.shields.io/badge/-Hibernate-000000?style=flat-square&logo=Hibernate&logoColor=FF4500) ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=HTML5&logoColor=FFFFFF) ![NGINX](https://img.shields.io/badge/-Nginx-000000?style=flat-square&logo=Nginx&logoColor=00FF00) ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=Postman&logoColor=FF6347)
+![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FF6347) ![VCcode](https://img.shields.io/badge/-Visual_Studio-000000?style=flat-square&logo=VisualStudio&logoColor=4169E1) ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat-square&logo=jenkins&logoColor=#D24939) ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat-square&logo=selenium&logoColor=#43B02A) ![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=flat-square&logo=cucumber&logoColor=#23D96C) ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat-square&logo=resend&logoColor=#000000) ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=Git&logoColor=F4A460) ![Maven](https://img.shields.io/badge/-Maven-000000?style=flat-square&logo=ApacheMaven&logoColor=FFB6C1) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=PostgreSQL&logoColor=FFFFFF) ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=Spring&logoColor=00FF00) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=Docker) ![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat-square&logo=JUnit5&logoColor=FF4500)
 
 ---
 
 #### О себе:
 
-- Успешно завершил обучение на курсе Нетологии - Java разработчик с нуля
-  - [Диплом о профессиональной переподготовке](https://github.com/Maxya777/diplom/blob/main/README.md)
-  - [Дипломная работа профессии Java-разработчик](https://github.com/Maxya777/Storage)
-- Продолжаю изучать новые технологии программирования
+- Развиваюсь в сфере QA с большим удовольствием
 - Приятный собеседник не только на тему программирования, но и на множество других тематик в различных аспектах жизни
 - В свободное время занимаюсь спортом и уделяю внимание нетворкингу
-
-Понимаю, что при рассмотрении кандидатуры на вакансию разработчика самым важным является не полученное образование, а профессиональные навыки и достижения, но надеюсь, что посмотрев мой профиль, Вы получите правильное представление о моем потенциале. Буду рад возможности развиваться в команде профессионалов и вносить свой вклад в реализацию корпоративных целей компании
-
----
-
-### Мои проекты
-
-- #### [Дипломный проект "Облачное хранилище"](https://github.com/Maxya777/Storage)
-  > Проект представляет собой REST сервис для загрузки, скачивания, переименования, удаления и вывода списка загруженных файлов пользователя
